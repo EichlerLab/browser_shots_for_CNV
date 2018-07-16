@@ -1,0 +1,6 @@
+---
+
+regions: example.bed
+session: <your home directory>/public_html/tracks/example_tracks/example_settings.txt
+passwords: ~/.eichlerlab/config.sh # Script that sets BROWSER_USERNAME and BROWSER_PASSWORD variables
+pad: 10000 # Region padding for browsershots (bp)
